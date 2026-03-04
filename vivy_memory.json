@@ -1,0 +1,36 @@
+{
+  "name": null,
+  "likes": [],
+  "dislikes": [],
+  "topics": {},
+  "events": [],
+  "summary": "",
+  "style": {
+    "humor": 0.6,
+    "playful": 0.7
+  },
+  "tone": "neutral",
+  "last_greeting": null,
+  "last_user_time": null,
+  "last_reply": "",
+  "arc": {
+    "topic": null,
+    "stage": 0
+  },
+  "emotions": {
+    "happiness": 0.5,
+    "curiosity": 0.5,
+    "affection": 0.3,
+    "playfulness": 0.6
+  },
+  "relationship": {
+    "affection_level": 0,
+    "intimacy": 0,
+    "trust": 0,
+    "familiarity": 0,
+    "stage": "stranger",
+    "previous_topics": [],
+    "teasing_memory": []
+  },
+  "emotional_memory": []
+}
