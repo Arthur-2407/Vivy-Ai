@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# virtual environment
+venv/
+
+# models
+*.gguf
+*.bin
+
+# IDE
+.vscode/
+
+# external tools
+ffmpeg/
+whisper.cpp/
+
+# logs
+*.log
